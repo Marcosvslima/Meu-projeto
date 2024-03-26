@@ -1,5 +1,5 @@
 let numeroSorteados = []
-let maxTentativas = 50
+let maxTentativas = 100
 let NumeroSecreto = gerarNumeroSecreto()
 let tentativas = 1
 
